@@ -9,6 +9,6 @@
 - [ ] Users can access a page describing the serivce
 
 ### Planned Stack
-[Boostrap](https://getbootstrap.com/) & [jQuery](https://jquery.com/)frontend, utilizing [leaflet](https://leafletjs.com/) or [google maps](https://developers.google.com/maps)
+[Boostrap](https://getbootstrap.com/) & [jQuery](https://jquery.com/) frontend, utilizing [leaflet](https://leafletjs.com/) or [google maps](https://developers.google.com/maps)
 Restful web API
 Backend: [django](https://www.djangoproject.com/) w/ geoDjango, [Postgres](https://www.postgresql.org/) w/ [POSTGIS](https://postgis.net/) for database.
